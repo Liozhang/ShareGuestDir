@@ -13,3 +13,6 @@ A python base tool for easily open Guest account and setting share folder.
 # Simple Requirements
 * Python >= 3.9
 * Win10 CMD with Administrator privileges
+
+# Run
+`python ShareGuestDir.py`
