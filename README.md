@@ -1,5 +1,5 @@
 # ShareGuestDir
-A python base tool for easily open Guest account and setting share folder.
+A python base tool for easily open Guest account and setting share folder. This program is a simple example for using tkinter to build a simple UI in python format, Enjoy it !! 
 
 # Simple UI for this tool
 * When running in CMD
