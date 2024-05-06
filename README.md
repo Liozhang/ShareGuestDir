@@ -14,12 +14,12 @@ A python base tool for easily open Guest account and setting share folder. This 
 * Python >= 3.9
 * Win10 CMD with Administrator privileges
 
-# Simple for run
+# Easy for run
 ```
 python ShareGuestDir.py
 ```
 
-# Simple to build a `.exe` program
+# Easy to build a windows 10 program
 Build A exe in Windows 10 CMD with pyinstaller and same python version and same packages
 ```
 python -m pip install pyinstaller
